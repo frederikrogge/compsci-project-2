@@ -7,7 +7,7 @@ The written report is called ```report.pdf```. All figures can be found in ```./
 The structure of this project is as follows:
 
 ```
-compsci-project-/
+compsci-project-2/
 │
 ├── src 
 │    │
