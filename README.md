@@ -10,11 +10,11 @@ The structure of this project is as follows:
 compsci-project-/
 │
 ├── src 
-|    |
-|    ├── 00_visualization.ipynb - contains the calcium trace visualizations with respect to the stimulus classs
-|    ├── 01_svm.ipynb - classification with svm
-|    ├── 02_boosting.ipynb - classification with boosting
-|    └── 03_ann.ipnb - classification with ann
+│    │
+│    ├── 00_visualization.ipynb - contains the calcium trace visualizations with respect to the stimulus classs
+│    ├── 01_svm.ipynb - classification with svm
+│    ├── 02_boosting.ipynb - classification with boosting
+│    └── 03_ann.ipnb - classification with ann
 └── figures
 ```
 
