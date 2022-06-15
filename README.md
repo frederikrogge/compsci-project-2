@@ -4,6 +4,20 @@
 
 The written report is called ```report.pdf```. All figures can be found in ```./figures```. There is a jupyter notebook for every classification method located in ```./src/Notebooks```. 
 
+The structure of this project is as follows:
+
+```
+compsci-project-/
+│
+├── src 
+|    |
+|    ├── 00_visualization.ipynb - contains the calcium trace visualizations with respect to the stimulus classs
+|    ├── 01_svm.ipynb - classification with svm
+|    ├── 02_boosting.ipynb - classification with boosting
+|    └── 03_ann.ipnb - classification with ann
+└── figures
+```
+
 ### Data and task description
 
 In this repository, we present notebooks to visualize two photon calcium imaging data and perform classification task to identify the underlying stimulus category based on the neural representations obtained from this data.
